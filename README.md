@@ -81,3 +81,9 @@ Enter your note (type 'END' on a new line to finish):
 3.Note saved successfully!
 
 If you want, I can also prepare a GitHub-ready version with badges and formatting, so it looks professional on your repo page. That will make your NotesApp look more polished.
+
+Author
+-------
+Developed by [Balaga Anushka] as part of *Java OOP Task 4*.
+
+
